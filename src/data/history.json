@@ -1,0 +1,14 @@
+[
+  {
+    "role": "Software Engineer",
+    "organisation": "Suntec Business Solutions",
+    "startDate": "Aug, 2022",
+    "endDate": "Present",
+    "experiences": [
+      "Developed and maintained a reliable application for the BFSI sector, reducing post-release defects by 15%.",
+      "Implemented unit and integration tests, boosting software quality and system stability.",
+      "Performed SQL queries and maintenance to optimize database performance, reducing execution time by 20%.",
+      "Leveraged Git for code management, maintaining high coding standards and enhancing code quality by 20%."
+    ]
+  }
+]

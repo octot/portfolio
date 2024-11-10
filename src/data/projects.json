@@ -1,0 +1,17 @@
+[
+  {
+    "title": "Invoice Management System",
+    "imageSrc": "projects/Invoice-Generator.png",
+    "description": "Developed a  application to automate and streamline the invoicing process, addressing challenges such as manual invoice generation through Excel, lack of client data storage, and repeated work on the same Excel files.",
+    "skills": ["React", "Express", "Node","MongoDB"],
+    "demo": "https://invoicegeneratorpro.netlify.app/",
+    "source": "https://www.github.com"
+  },
+  {
+    "title": "My Edu Payments",
+    "imageSrc": "projects/smartpay.jpg",
+    "description": "Developed a application that automates the delivery of payment information to parents or students for tutoring services, based on time sheet entries submitted by teachers.",
+    "skills": ["React", "Express", "Node","MongoDB"],
+    "source": "https://www.github.com"
+  }
+]
