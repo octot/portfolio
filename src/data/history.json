@@ -1,9 +1,24 @@
 [
   {
     "role": "Software Engineer",
+    "organisation": "DLT Ledgers",
+    "startDate": "Dec, 2024",
+    "endDate": "Present",
+"experiences": [
+  "Integrated Apache NiFi with the Proteus platform to automate data flows and processes.",
+  "Designed workflows connecting Oracle, JSON, Excel, and SAP, enabling seamless data exchange.",
+  "Streamlined user authentication by replacing complex NiFi policy setups with one-click UI configuration.",
+  "Built reusable NiFi processors for scalable and generic data processing.",
+  "Enhanced supply chain onboarding with a flexible framework for faster partner integration.",
+  "Resolved core bugs in Corda to stabilize decentralized application performance."
+]
+
+  },
+  {
+    "role": "Software Engineer",
     "organisation": "Suntec Business Solutions",
     "startDate": "Aug, 2022",
-    "endDate": "Present",
+    "endDate": "Nov, 2024",
     "experiences": [
       "Developed and maintained a reliable application for the BFSI sector, reducing post-release defects by 15%.",
       "Implemented unit and integration tests, boosting software quality and system stability.",
